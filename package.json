@@ -1,0 +1,28 @@
+{
+  "name": "typesmt",
+  "productName": "TypesMT",
+  "version": "1.0.0",
+  "description": "Machine Translation connectors in TypeScript",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": {
+    "name": "Rodolfo M. Raya",
+    "url": "https://maxprograms.com",
+    "email": "rmraya@maxprograms.com"
+  },
+  "license": "EPL-1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmraya/TypesXML.git"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "typescript": "^5.0.4"
+  }
+}
